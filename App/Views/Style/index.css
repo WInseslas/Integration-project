@@ -1,0 +1,9 @@
+*{
+	font-family: Times New Roman;
+}
+
+body{
+	margin: 5px;
+	padding: 5px;
+	overflow-x: hidden;
+}

@@ -1,0 +1,122 @@
+nav{
+	box-shadow: 6px 5px 5px 6px rgba(0, 0, 0, 0.3);
+}
+.navbar-header>img{
+	cursor: pointer;
+}
+
+.navbar-header>a{
+	margin-left: -25px;
+}
+#logoutModal{
+	margin-bottom: -246px;
+	margin-left: 1%;
+}
+li > a{
+	font-weight: bold;
+}
+.carousel-inner{
+	border-radius: 15px;
+}
+.carousel-inner>div>img{
+	width: 100%;
+}
+.footer{
+	width: 150%;
+	margin-left: -0.5%;
+}
+
+.footer > .container > p{
+	margin-top: 25px;
+}
+
+/*Page de connexion*/
+.container > form{
+	max-width: 100%;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+[class="starter-template"] > img{
+	width: 122%;
+	height: 300px;
+	margin-left: -11%;
+	margin-top: -99px;
+}
+
+.container > p{
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+
+/*Communication Manager*/
+
+.dropdown > a{
+	font-size: 20px;
+}
+
+.dropdown > a > img{
+	height: 40px;
+	margin-top: -25px;
+	margin-bottom: -25px;
+}
+
+.dropdown-menu{
+	width: 100%;
+}
+
+#img{
+	width: 50%;
+	margin-top: -40px;
+	background-color: inherit;
+}
+#img > img{
+	width: 100%;
+}
+
+.cnt{
+	margin-top: -40px;
+	background-color: white;
+
+}
+
+#cms{
+	/*background-color: rgba(209, 133, 138, 1.0);*/
+	background-color: white;
+	box-shadow: 1px 1px 1px 15px rgba(179, 179, 179, 0.5);
+}
+
+#cms > a, #hrd > a{
+	padding: 0px;
+	border: inherit;
+	background-color: inherit;
+}
+#cms > a > p, #hrd > a > p {
+	font-weight: bold;
+}
+
+#hrd{
+	background-color: inherit;
+	box-shadow: 1px 1px 1px 15px rgba(255, 255, 255, 0.5);
+}
+
+.cnt > .page-header > p{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#msgC{
+	font-size: 370%;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+#message{
+	max-width: 100%;
+	min-width: 100%;
+	height: 200px;
+	max-height: 200px;
+	min-height: 200px;
+	font-size: 40px;
+	font-style: oblique;
+}
